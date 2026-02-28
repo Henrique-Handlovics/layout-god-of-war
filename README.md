@@ -27,4 +27,6 @@ Este projeto foi desenvolvido com base no conteúdo e modelo visual fornecido pe
 👨‍💻 Autor
 
 Henrique Handlovics
-🔗 https://github.com/Henrique-Handlovics
+🔗 https://github.com/Henrique-Handlovics <br>
+Projeto
+🔗 https://henrique-handlovics.github.io/layout-god-of-war/
